@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "lericson",
+  "repo": "pylibmc",
+  "versions": [
+    {
+      "commit": "4e682481051b96c25e9e997fc7cabe96298e945e",
+      "parsed_at": "2026-04-15T03:03:19.689445+00:00",
+      "tag": "pregit",
+      "filetree": "filetree/4e682481051b96c25e9e997fc7cabe96298e945e.nq.gz",
+      "blobs": [
+        "blob/579e45a2b78bdfaafe725091e0fcf70acac4958b.nq.gz",
+        "blob/4460877a186f30ce230ed8e005320de84d92091a.nq.gz",
+        "blob/84549d353064a8dd4e1172fa59e6eb93d67f3ad8.nq.gz",
+        "blob/ee12d8e68fbfb81926a91c1fa6e43b9586224cce.nq.gz",
+        "blob/8212673df926118282819a1da779d27c634c7ee8.nq.gz",
+        "blob/bdd597bed5040f434c4822fc6908d7a4a78a1df6.nq.gz",
+        "blob/6bb3d2180e00553bc6cf01ad401ec7dea37372a5.nq.gz",
+        "blob/e32bcd5aad1c828be5b84ac38a8007af4f20bb0d.nq.gz",
+        "blob/d23bf4a644058ac88a4372d5b83a6d3cd48f0a6b.nq.gz",
+        "blob/f04b1ca33cd119d1160ad9a8147426d6d7e4079b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
